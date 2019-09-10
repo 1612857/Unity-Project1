@@ -1,0 +1,1827 @@
+fileFormatVersion: 2
+guid: cfa3f13373c324e4b86eab548f62872a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7254539628815164369
+    second: rizer_0
+  - first:
+      213: -6729932665809007873
+    second: rizer_1
+  - first:
+      213: 8978894212923389979
+    second: rizer_2
+  - first:
+      213: -8003706460460965330
+    second: rizer_3
+  - first:
+      213: 4525138899874907445
+    second: rizer_4
+  - first:
+      213: 810301414332307994
+    second: rizer_5
+  - first:
+      213: 5111402903603257159
+    second: rizer_6
+  - first:
+      213: 9027474294417775419
+    second: rizer_7
+  - first:
+      213: 8181836913757792846
+    second: rizer_8
+  - first:
+      213: -1582995034680349466
+    second: rizer_9
+  - first:
+      213: -4358280203796967693
+    second: rizer_10
+  - first:
+      213: -3051039068978353673
+    second: rizer_11
+  - first:
+      213: 7546899621480748739
+    second: rizer_12
+  - first:
+      213: -1390568040576456629
+    second: rizer_13
+  - first:
+      213: 1897350474329388013
+    second: rizer_14
+  - first:
+      213: 5738063998904364695
+    second: rizer_15
+  - first:
+      213: -6904965156312261815
+    second: rizer_16
+  - first:
+      213: -5944556915214934528
+    second: rizer_17
+  - first:
+      213: -9098012984021898356
+    second: rizer_18
+  - first:
+      213: 7804411701724397482
+    second: rizer_19
+  - first:
+      213: -815135492834374829
+    second: rizer_20
+  - first:
+      213: 1213984947015255501
+    second: rizer_21
+  - first:
+      213: 3237845116449643002
+    second: rizer_22
+  - first:
+      213: -6041509379111070319
+    second: rizer_23
+  - first:
+      213: 2721039667702963802
+    second: rizer_24
+  - first:
+      213: -6402283179920936575
+    second: rizer_25
+  - first:
+      213: 6422310375828856719
+    second: rizer_26
+  - first:
+      213: -320179426972098777
+    second: rizer_27
+  - first:
+      213: -4389094841708892002
+    second: rizer_28
+  - first:
+      213: -151843867519516239
+    second: rizer_29
+  - first:
+      213: -1982092628924165214
+    second: rizer_30
+  - first:
+      213: 8725692445546652358
+    second: rizer_31
+  - first:
+      213: -6429038869168635252
+    second: rizer_32
+  - first:
+      213: -9095562803944931131
+    second: rizer_33
+  - first:
+      213: -8570929372800999584
+    second: rizer_34
+  - first:
+      213: -6819904018112269187
+    second: rizer_35
+  - first:
+      213: 4479572478733046021
+    second: rizer_36
+  - first:
+      213: -2996721078808484255
+    second: rizer_37
+  - first:
+      213: 5893576174192304993
+    second: rizer_38
+  - first:
+      213: 6262304453450944075
+    second: rizer_39
+  - first:
+      213: 4022259939036317660
+    second: rizer_40
+  - first:
+      213: -1369462358945456364
+    second: rizer_41
+  - first:
+      213: -6004420242899987343
+    second: rizer_42
+  - first:
+      213: -125501129301024156
+    second: rizer_43
+  - first:
+      213: -8213147709520517029
+    second: rizer_44
+  - first:
+      213: -9088277505644979453
+    second: rizer_45
+  - first:
+      213: -7495633167301763435
+    second: rizer_46
+  - first:
+      213: -3983771759276511177
+    second: rizer_47
+  - first:
+      213: -1225506356430567671
+    second: rizer_48
+  - first:
+      213: -4580624662255327279
+    second: rizer_49
+  - first:
+      213: -2508424093173232157
+    second: rizer_50
+  - first:
+      213: 7557027593094205511
+    second: rizer_51
+  - first:
+      213: -4638716919961455645
+    second: rizer_52
+  - first:
+      213: 6225803626805860241
+    second: rizer_53
+  - first:
+      213: 3758062622580294836
+    second: rizer_54
+  - first:
+      213: -8382002772664792734
+    second: rizer_55
+  - first:
+      213: -1906434971180995697
+    second: rizer_56
+  - first:
+      213: 1564674514099887851
+    second: rizer_57
+  - first:
+      213: 3351432952659398803
+    second: rizer_58
+  - first:
+      213: 1397234624402851843
+    second: rizer_59
+  - first:
+      213: 506489590212852252
+    second: rizer_60
+  - first:
+      213: 8512256949492479509
+    second: rizer_61
+  - first:
+      213: -916902927418531370
+    second: rizer_62
+  - first:
+      213: 3588406882593378932
+    second: rizer_63
+  - first:
+      213: -8559278106274551979
+    second: rizer_64
+  - first:
+      213: 6141682075193300783
+    second: rizer_65
+  - first:
+      213: -254224077074942258
+    second: rizer_66
+  - first:
+      213: 7126625674824558020
+    second: rizer_67
+  - first:
+      213: -7407495557757903324
+    second: rizer_68
+  - first:
+      213: -3502728044165021017
+    second: rizer_69
+  - first:
+      213: -7022047312596469001
+    second: rizer_70
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 1, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: rizer_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 387
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 604ee36743afb4b68ae5651e568fbd78
+      internalID: -7254539628815164369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rizer_1
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 387
+        width: 30
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adf2b305e27ae4b119149f3c8204fabb
+      internalID: -6729932665809007873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rizer_2
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 387
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dae51f98ab6a43feaef9e15908283a0
+      internalID: 8978894212923389979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rizer_3
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 388
+        width: 45
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04a842eb5b1904780a550edc5fbf6ceb
+      internalID: -8003706460460965330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rizer_4
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 388
+        width: 44
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c21aee8ce59434e309071586e121647c
+      internalID: 4525138899874907445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rizer_5
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 388
+        width: 54
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b08432e0dec224481afad9202b1099ef
+      internalID: 810301414332307994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rizer_6
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 360
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 640eca2545c3b44df9f2374d9d17b906
+      internalID: 5111402903603257159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rizer_7
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 357
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ab3e51da181d4242aa7fe239c76117d
+      internalID: 9027474294417775419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rizer_8
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 361
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74e94d973afbd4195a39ca7c83c1775a
+      internalID: 8181836913757792846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rizer_9
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 358
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a95651d3b4ad94226a74bd5662cec7fc
+      internalID: -1582995034680349466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rizer_10
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 311
+        width: 27
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84baf65439ebb44d3a3f243a52c68b57
+      internalID: -4358280203796967693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rizer_11
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 309
+        width: 27
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4bf10f17aeb84431b26eec33e3a750b
+      internalID: -3051039068978353673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rizer_12
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 309
+        width: 30
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ab6bc372d12d4c3cbbf8600bd053da8
+      internalID: 7546899621480748739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rizer_13
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 309
+        width: 29
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 271ceace93e7e4d158db4a6971ce6b72
+      internalID: -1390568040576456629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rizer_14
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 308
+        width: 34
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3602ef23b92584de6a640dfe8d8f0695
+      internalID: 1897350474329388013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rizer_15
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 308
+        width: 29
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56ecf177ddf95405f9a1ce5f308ed402
+      internalID: 5738063998904364695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rizer_16
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 268
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a36256daf5e954e339c9b31e80448673
+      internalID: -6904965156312261815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rizer_17
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 263
+        width: 80
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f4d8c77088a4489997647d322bde4d8
+      internalID: -5944556915214934528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rizer_18
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 262
+        width: 41
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 576ee53003efb4639947861f5fbe49fb
+      internalID: -9098012984021898356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rizer_19
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 264
+        width: 40
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8adafe7305eb44fdb31a323e29d0749
+      internalID: 7804411701724397482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rizer_20
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 213
+        width: 28
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc3b9e2bfe9794be88c6fb40e7cd0b1c
+      internalID: -815135492834374829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rizer_21
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 213
+        width: 24
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d70322aebd3fb4cb79c2f35b8de74abd
+      internalID: 1213984947015255501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rizer_22
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 211
+        width: 28
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f9a5604c4c014a959e10818d372b45b
+      internalID: 3237845116449643002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rizer_23
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 211
+        width: 24
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1febaaf8cf58942aca85bd73f8a3c56c
+      internalID: -6041509379111070319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rizer_24
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 238
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f94154e2393e4f4486e39b024c51d5c
+      internalID: 2721039667702963802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rizer_25
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 235
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9697a0c99b75e4a76ba3d032f5160da0
+      internalID: -6402283179920936575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rizer_26
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 235
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20b1346787aae481a983b30c8991ce98
+      internalID: 6422310375828856719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rizer_27
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 238
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 723f107dd27774f5e94ff96f587ea6d3
+      internalID: -320179426972098777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rizer_28
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 238
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16ba79f6d4f854e79a907f2b49593a63
+      internalID: -4389094841708892002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rizer_29
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 238
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bf507773d5d34b86ad74e1f8f85354f
+      internalID: -151843867519516239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rizer_30
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 235
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 447f5ba7fcac84509b59c02af73cf273
+      internalID: -1982092628924165214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rizer_31
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 213
+        width: 16
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94f4667daa9004fbe910ab67456db367
+      internalID: 8725692445546652358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rizer_32
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 223
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53aaa2e1080314fd78d7ac769db1a775
+      internalID: -6429038869168635252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rizer_33
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 223
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c076431d68974b7fb5e097b10cfa4a3
+      internalID: -9095562803944931131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rizer_34
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 223
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e218b77bdae54c109c71689e4e32798
+      internalID: -8570929372800999584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rizer_35
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 223
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ff9fe77bcf8d4dff8bf448796e712ba
+      internalID: -6819904018112269187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rizer_36
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 223
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24f9c529826464460acd87b70711c20a
+      internalID: 4479572478733046021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rizer_37
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 223
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7d50156af7df48b48bc8cf9534f83d0
+      internalID: -2996721078808484255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rizer_38
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 223
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab03a50f1afd746f38edba7e60db78ee
+      internalID: 5893576174192304993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rizer_39
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 208
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa2fb6e6207164c119b9421fdf8a8216
+      internalID: 6262304453450944075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rizer_40
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 208
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3e398b54f8084968a4283150797f9b5
+      internalID: 4022259939036317660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rizer_41
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 208
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1345c58c855e34a43a99273a7debefff
+      internalID: -1369462358945456364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rizer_42
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 205
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aae2a1937cb4342358d0b3c8561422f8
+      internalID: -6004420242899987343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rizer_43
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 208
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b59c116d90b664fcb8a4d73b55d1a3cf
+      internalID: -125501129301024156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rizer_44
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 208
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e6432afb690643c19673815a37fe4d1
+      internalID: -8213147709520517029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rizer_45
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 208
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65ca487b3cc31423eb8c77f578597295
+      internalID: -9088277505644979453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rizer_46
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 205
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e56037578f0e4265ab394566d6cad50
+      internalID: -7495633167301763435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rizer_47
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 162
+        width: 27
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2e88dbe5cf874842b22571f2dcbe4de
+      internalID: -3983771759276511177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rizer_48
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 162
+        width: 26
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 921fd7ade5eef47b495df247672ae8ec
+      internalID: -1225506356430567671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rizer_49
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 161
+        width: 27
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0ff63973d21745d5992596564ab2609
+      internalID: -4580624662255327279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rizer_50
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 161
+        width: 26
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c49f43f29ebc448aa94a7e0474a102a
+      internalID: -2508424093173232157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rizer_51
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 168
+        width: 16
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c49d11bf89a4a445997ed5ac887d7507
+      internalID: 7557027593094205511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rizer_52
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 108
+        width: 32
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ac12f10b07ee40779232f9a90e2af56
+      internalID: -4638716919961455645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rizer_53
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 111
+        width: 30
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0659ed1468cfb412d8aaaa034ded6dc3
+      internalID: 6225803626805860241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rizer_54
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 131
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f1738c86541048dd8d50bccab05692d
+      internalID: 3758062622580294836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rizer_55
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 119
+        width: 16
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2910334c7e6744952a7508f8ad13ff71
+      internalID: -8382002772664792734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rizer_56
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 112
+        width: 48
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb68426ea892043fe8d3dc6eab0f498d
+      internalID: -1906434971180995697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rizer_57
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 41
+        width: 30
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf34b57bcb245422881282a87e45aa0c
+      internalID: 1564674514099887851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rizer_58
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 46
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d7ac1c59923c4002993758f4c00acd2
+      internalID: 3351432952659398803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rizer_59
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 44
+        width: 21
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0cb879c1359447d38d3b7fb53c9b86f
+      internalID: 1397234624402851843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rizer_60
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 51
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd10f27dd219c43b7875c2816ddbe853
+      internalID: 506489590212852252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rizer_61
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 51
+        width: 23
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e6e3246226984cb9aaa0b77d369e3bb
+      internalID: 8512256949492479509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rizer_62
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 53
+        width: 25
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86898b83d0c564a5aadc7f181deb4228
+      internalID: -916902927418531370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rizer_63
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 54
+        width: 44
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 119411aa409324eec80ffcd9f4d6431b
+      internalID: 3588406882593378932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rizer_64
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 6
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02d19bb67772846ddb0b3fd8b04f0da9
+      internalID: -8559278106274551979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rizer_65
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 6
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b93cd54181ad441189f53c889991686b
+      internalID: 6141682075193300783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rizer_66
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 6
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 235a8e1ea7562485794e011cee27977b
+      internalID: -254224077074942258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rizer_67
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 4
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f73324d9edd84b6098b4d99a0857922
+      internalID: 7126625674824558020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rizer_68
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 8
+        width: 24
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f875953b00af4a9e9ccb77497e874d1
+      internalID: -7407495557757903324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rizer_69
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 4
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d58178df845dc434db51098b7520ff5c
+      internalID: -3502728044165021017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rizer_70
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 5
+        width: 26
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b29356ee11b7543cfb94ebb8b9b08c85
+      internalID: -7022047312596469001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: e3916a153617c4f57968ddb7aa00b434
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
